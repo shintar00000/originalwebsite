@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-creator-journey-begins",
+    "title": "AIクリエイターとしての新しい旅路",
+    "slug": "ai-creator-journey-begins",
+    "excerpt": "18年間の消防士経験を経て、AIクリエイターとして新たな道を歩み始めた私の想いと、これからの展望について綴ります。",
+    "content": "# AIクリエイターとしての新しい旅路\n\n40歳という節目で、18年間続けた消防士を辞め、AIクリエイターという新しい道を選びました。\n\n## なぜAIクリエイターになったのか\n\n消防士として地域の安全を守る中で、常に「どうすればもっと効率的に、より多くの人を助けられるか」を考えてきました。そんな中で出会ったのが生成AIの技術でした。\n\n### 生成AIとの出会い\n\n最初にStable Diffusionでポスターを作成した時の感動は今でも忘れません。想像していたものが瞬時に形になる驚きと、そこから広がる無限の可能性を感じました。\n\n## これからの展望\n\n- **AI技術の民主化**: 誰でも簡単にAIを活用できる環境を作りたい\n- **地域コミュニティへの貢献**: 消防士時代の経験を活かし、地域の課題をAIで解決\n- **教育への貢献**: AIリテラシーの向上をサポート\n\n5児のパパとして、子どもたちに誇れる仕事をしていきたいと思います。",
+    "publishedAt": "2024-07-07T00:00:00Z",
+    "tags": ["AI", "キャリアチェンジ", "生成AI"],
+    "featured": true,
+    "image": "/image/icon.jpg"
+  },
+  {
+    "id": "stable-diffusion-tips-2024",
+    "title": "Stable Diffusion活用術：プロが教える実践テクニック",
+    "slug": "stable-diffusion-tips-2024",
+    "excerpt": "Stable Diffusionを使いこなすための実践的なテクニックとプロンプトのコツを、実例とともに詳しく解説します。",
+    "content": "# Stable Diffusion活用術：プロが教える実践テクニック\n\nStable Diffusionで高品質な画像を生成するためのテクニックをご紹介します。\n\n## 基本的なプロンプトの書き方\n\n### 1. 主題を明確に\n```\na professional portrait of a Japanese businessman\n```\n\n### 2. スタイルの指定\n```\ncinematic lighting, photorealistic, 8k resolution\n```\n\n### 3. ネガティブプロンプトの活用\n```\nNegative: blurry, low quality, distorted, ugly\n```\n\n## 実践的なテクニック\n\n### カメラアングルの指定\n- `close-up shot`: 顔のアップ\n- `medium shot`: 胸から上\n- `wide shot`: 全身\n\n### ライティングの指定\n- `soft lighting`: 柔らかい光\n- `dramatic lighting`: ドラマチックな光\n- `golden hour`: 黄金時間の光\n\n## まとめ\n\n継続的な練習と実験が、Stable Diffusionマスターへの近道です。",
+    "publishedAt": "2024-07-06T00:00:00Z",
+    "tags": ["Stable Diffusion", "AI画像生成", "チュートリアル"],
+    "featured": false,
+    "image": "/image/icon.jpg"
+  },
+  {
+    "id": "ai-business-opportunities-2024",
+    "title": "2024年のAIビジネス機会：個人クリエイターが知るべきトレンド",
+    "slug": "ai-business-opportunities-2024",
+    "excerpt": "AIを活用したビジネスの最新トレンドと、個人クリエイターが参入できる市場機会について詳しく分析します。",
+    "content": "# 2024年のAIビジネス機会：個人クリエイターが知るべきトレンド\n\nAI技術の急速な発展により、個人クリエイターにも多くのビジネス機会が生まれています。\n\n## 注目すべき市場領域\n\n### 1. AI画像生成サービス\n- ポスター・バナー制作\n- SNS投稿画像作成\n- プレゼン資料のビジュアル制作\n\n### 2. AI動画制作\n- 短尺動画の自動生成\n- プロモーション動画制作\n- 教育コンテンツ作成\n\n### 3. AIライティング支援\n- ブログ記事作成サポート\n- マーケティングコピー生成\n- 技術文書の翻訳・要約\n\n## 成功のポイント\n\n### スキルの組み合わせ\n単純なAIツールの操作だけでなく、以下の組み合わせが重要：\n\n- **ドメイン知識** + **AI技術**\n- **デザインセンス** + **生成AI**\n- **ビジネス理解** + **自動化技術**\n\n### 継続的な学習\nAI技術は日進月歩で進化しているため、常に最新情報をキャッチアップすることが必要です。\n\n## 実際の収益例\n\n私の場合、生成AIポスター販売で最高月商50万円を達成しました。小さく始めて、継続的に改善していくことが重要です。",
+    "publishedAt": "2024-07-05T00:00:00Z",
+    "tags": ["AIビジネス", "副業", "マーケティング"],
+    "featured": true,
+    "image": "/image/icon.jpg"
+  }
+]
